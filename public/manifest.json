@@ -12,7 +12,7 @@
     "url": "https://zynx-mygpt-pdf.web.app/.well-known/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://zynx-mygpt-pdf.web.app/assets/zynx_icon.png",
+  "logo_url": "https://zynx-mygpt-pdf.web.app/assets/zynx_icon_v2.png",
   "contact_email": "zynx.ai.thai@gmail.com",
   "legal_info_url": "https://zynx-mygpt-pdf.web.app/legal.html"
 }
